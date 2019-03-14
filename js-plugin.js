@@ -10,9 +10,7 @@
 
     'use strict';
 
-    // PROPERTIES
-    var defaults = {
-    }
+    // PRIVATE VARIABLES
 
     // PRIVATE FUNCTIONS
 
